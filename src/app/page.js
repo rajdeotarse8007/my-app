@@ -23,12 +23,12 @@ export default function Home() {
 
         {/* Heading */}
         <h1 className="text-4xl font-extrabold tracking-tight text-zinc-900 dark:text-white sm:text-5xl">
-          Welcome to AI Chat 🤖
+          Welcome to Chat with Raj 🤖
         </h1>
 
         {/* Subtext */}
         <p className="max-w-xl text-lg text-zinc-600 dark:text-zinc-300">
-          Chat with AI, ask questions, get instant answers, and explore ideas
+          Chat with Raj, ask questions, get instant answers, and explore ideas
           like never before.
         </p>
 
@@ -45,7 +45,7 @@ export default function Home() {
 
         {/* Footer note */}
         <p className="mt-4 text-sm text-zinc-500 dark:text-zinc-400">
-          Powered by Next.js & AI
+          Powered by Raj Deotarse
         </p>
       </main>
     </div>
